@@ -1,1 +1,1 @@
-# CodeAlpha_ExpenseTracker
+# ExpenseTracker
